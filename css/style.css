@@ -366,9 +366,9 @@ body {
 #logo,
 #subtitle {
   text-decoration: none;
-  color: #5492C5;
+  color: #fff;
   font-weight: 300;
-  text-shadow: 0 1px 4px rgba(0,0,0,0.3);
+  text-shadow: 0 4px 4px rgba(0,0,0,.5);
 }
 #logo {
   font-size: 60px;
